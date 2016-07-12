@@ -29,3 +29,5 @@ Another possibility is the following if the above is not availible:
 
 * `import pkgutil`
 * `__path__ = pkgutil.extend_path(__path__, __name__)`
+
+And finally all your code under the folder `PACKAGE/PACKAGENAME`.
